@@ -9,7 +9,7 @@ export default function Blog() {
 				</h1>
 				<div className="lg:grid grid-cols-3">
 					<Link href="/blog1">
-						<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 hover:scale-105 ease-in duration-300">
+						<div className="p-8 my-5 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 hover:scale-105 ease-in duration-300">
 							<h2 className=" text-white text-2xl underline text-center">
 								How to create your own NFTs
 							</h2>
@@ -19,7 +19,7 @@ export default function Blog() {
 						</div>
 					</Link>
 					<Link href="/blog2">
-						<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 hover:scale-105 ease-in duration-300">
+						<div className="p-8 my-5 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 hover:scale-105 ease-in duration-300">
 							<h2 className=" text-white text-2xl underline text-center">
 								How to create your own NFTs
 							</h2>
@@ -29,7 +29,7 @@ export default function Blog() {
 						</div>
 					</Link>
 					<Link href="/blog3">
-						<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 hover:scale-105 ease-in duration-300">
+						<div className="p-8 my-5 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 hover:scale-105 ease-in duration-300">
 							<h2 className=" text-white text-2xl underline text-center">
 								How to create your own NFTs
 							</h2>

@@ -11,7 +11,7 @@ export default function Main() {
 				</Link>
 				<div className="py-5">
 					<p className="py-2 text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
-						"I've made my first trillion thanks to not-a-scam.com"
+						"I've made my first trillion thanks to not-a-scam.com."
 					</p>
 					<p className=" px-2 text-red-500 text-center text-lg md:text-xl lg:text-2xl  ">
 						- Elon Musk

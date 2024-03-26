@@ -12,7 +12,7 @@ export default function blog2() {
 			</Head>
 			<div className="max-w-[1400px] m-auto ">
 				<Link href={"/"}>
-					<h1 className="py-6 text-blue-700 underline">Not-A-Scam.com</h1>
+					<h1 className="py-6 text-red-500 underline">Not-A-Scam.com</h1>
 				</Link>
 				<h2 className="text-center my-2 max-w-[700px] xl:max-w-[825px] m-auto">
 					How to create your own NFTs
