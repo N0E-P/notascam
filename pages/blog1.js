@@ -17,6 +17,9 @@ export default function blog1() {
 				<h2 className="text-center my-2 max-w-[700px] xl:max-w-[825px] m-auto">
 					How to create your own NFTs
 				</h2>
+				<div className="mt-6 max-w-[400px] w-full h-auto m-auto ">
+					<img className="rounded-xl" src="/images/nftblog.jpg" alt="/" />
+				</div>
 				<p className="sm:mx-10 my-2 md:text-center py-3 p-4">
 					Hello my little scammers! Today we’ll learn how to create amazing NFTs, from
 					start to finish.

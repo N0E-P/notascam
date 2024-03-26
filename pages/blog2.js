@@ -17,6 +17,9 @@ export default function blog2() {
 				<h2 className="text-center my-2 max-w-[700px] xl:max-w-[825px] m-auto">
 					How to create your own NFTs
 				</h2>
+				<div className="mt-6 max-w-[400px] w-full h-auto m-auto ">
+					<img className="rounded-xl" src="/images/nftblog.jpg" alt="/" />
+				</div>
 				<p className="sm:mx-10 my-2 md:text-center py-3 p-4">bla</p>
 				<p className="sm:mx-10 my-2 p-4">blabla</p>
 				<p className="sm:mx-10 my-2 text-justify p-4 ">
