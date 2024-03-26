@@ -14,7 +14,7 @@ export default function Blog() {
 								How to create your own NFTs
 							</h2>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto ">
-								<img className="rounded-xl" src="nftblog.JPG" alt="/" />
+								<img className="rounded-xl" src="/images/nftblog.jpg" alt="/" />
 							</div>
 						</div>
 					</Link>
@@ -24,7 +24,7 @@ export default function Blog() {
 								How to create your own NFTs
 							</h2>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto ">
-								<img className="rounded-xl" src="nftblog.JPG" alt="/" />
+								<img className="rounded-xl" src="/images/nftblog.jpg" alt="/" />
 							</div>
 						</div>
 					</Link>
@@ -34,7 +34,7 @@ export default function Blog() {
 								How to create your own NFTs
 							</h2>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto ">
-								<img className="rounded-xl" src="nftblog.JPG" alt="/" />
+								<img className="rounded-xl" src="/images/nftblog.jpg" alt="/" />
 							</div>
 						</div>
 					</Link>
