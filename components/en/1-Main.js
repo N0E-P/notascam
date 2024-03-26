@@ -24,21 +24,21 @@ export default function Main() {
 					<div className="grid grid-cols-3 gap-10">
 						<img
 							className=" bg-blue-100 rounded-full m-2 mt-4 sm:m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
-							src={"me/profile-photo.jpg"}
+							src={"sasha.jpg"}
 							alt=""
 							width="200"
 							height="200"
 						/>
 						<img
 							className=" bg-blue-100 rounded-full m-2 mt-4 sm:m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
-							src={"me/profile-photo.jpg"}
+							src={"sie.jpg"}
 							alt=""
 							width="200"
 							height="200"
 						/>
 						<img
 							className=" bg-blue-100 rounded-full m-2 mt-4 sm:m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
-							src={"me/profile-photo.jpg"}
+							src={"lenoe.jpg"}
 							alt=""
 							width="200"
 							height="200"
