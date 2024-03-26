@@ -2,7 +2,7 @@ import Link from "next/link";
 import Presentation from "../components/en/2-Presentation";
 import Head from "next/head";
 
-export default function blog1() {
+export default function blog3() {
 	return (
 		<div className="w-full p-4 items-center">
 			<Head>
