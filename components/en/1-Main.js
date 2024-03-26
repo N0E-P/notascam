@@ -1,6 +1,4 @@
-import { useState, useEffect } from "react";
 import { HiChevronDoubleDown } from "react-icons/hi";
-import { AiOutlineMail } from "react-icons/ai";
 import Link from "next/link";
 
 export default function Main() {
