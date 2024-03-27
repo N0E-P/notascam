@@ -43,8 +43,9 @@ export default function blog4() {
 					heal you emotionally or physically. Curing disease is a bestseller bullshit, it
 					comes when people are desperate and want to believe in something. Quantum bed
 					for 2000$. Nothing more to say, just buy a random bed and ask ChatGPT some
-					storytelling. Quantum cream (from guerlain). It made a polemic, so the term
-					“quantum” is not anymore on their website, but it stays bullshit storytelling.{" "}
+					storytelling. Quantum cream (from guerlain) made a polemic, so the term
+					“quantum” has been remove from their website, but it stays bullshit
+					storytelling.{" "}
 					<span>
 						<a
 							href="https://www.guerlain.com/fr/fr-fr/p/orchidee-imperiale-gold-nobile-la-creme-P061801.html"
@@ -53,7 +54,7 @@ export default function blog4() {
 							Watch here
 						</a>
 					</span>
-					, they just sell a random cream for 650$ by using deep words. People don't
+					, they just sell a random cream for 650$ by using complexe words. People don't
 					understand, but as a science student I do, and it is ridiculous xd. “Gold Nobile
 					est capable d’aider à restaurer l’émission de biophotons d’une cellule âgée à un
 					niveau proche de celui d’une cellule jeune.”, here is some good storytelling!
