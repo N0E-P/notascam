@@ -24,7 +24,7 @@ export default function blog1() {
 					Hello my little scammers! Today we’ll learn how to create amazing NFTs, from
 					start to finish.
 				</p>
-				<p className="sm:mx-10 mt-2 p-4 pb-0">1-Create the images</p>
+				<p className="sm:mx-10 mt-2 p-4 pb-0 font-bold">1-Create the images</p>
 				<p className="sm:mx-10 my-2 p-4">
 					Firstly, we need to create all the layers we want for our NFTs. All the
 					different options we want have to be drawn. You can do everything by hand,{" "}
@@ -39,7 +39,7 @@ export default function blog1() {
 					. (I know, I’m an artist) Or you can force your little brother to do it for you.
 					Then we need to assemble all the images we want to sell.
 				</p>
-				<p className="sm:mx-10 my-2 p-4 pb-0">2-Put them on Opensea</p>
+				<p className="sm:mx-10 my-2 p-4 pb-0 font-bold">2-Put them on Opensea</p>
 				<p className="sm:mx-10 my-2 p-4">
 					You’ll first need to buy some cryptocurrency. In this example, we’ll be on the
 					Ethereum blockchain, so you’ll need to buy some ETH. You can do it directly on{" "}
@@ -54,13 +54,13 @@ export default function blog1() {
 					. Or you can do it programmatically using Brownie or another software like it to
 					use the blockchain directly from your computer using code.
 				</p>
-				<p className="sm:mx-10 my-2 p-4 pb-0">3-Get a fan base</p>
+				<p className="sm:mx-10 my-2 p-4 pb-0 font-bold">3-Get a fan base</p>
 				<p className="sm:mx-10 my-2 p-4">
 					You can create one on Discord, Twitter or Reddit. Only nerd social networks.
 					Otherwise, it won't work. I’m very bad in this domain, so I’ll let you find what
 					works.
 				</p>
-				<p className="sm:mx-10 my-2 p-4 pb-0">4-Spend all your money</p>
+				<p className="sm:mx-10 my-2 p-4 pb-0 font-bold">4-Spend all your money</p>
 				<p className="sm:mx-10 my-2 p-4">
 					That’s it. Now you’re rich! You can now take selfies in Dubai or on the hood of
 					your Lamborghini
