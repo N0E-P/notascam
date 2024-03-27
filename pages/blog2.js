@@ -18,7 +18,7 @@ export default function blog2() {
 					Spam In The History Of Scams
 				</h2>
 				<div className="mt-6 max-w-[400px] w-full h-auto m-auto ">
-					<img className="rounded-xl" src="/images/nftblog.jpg" alt="/" />
+					<img className="rounded-xl" src="/images/spam_image.jpg" alt="/" />
 				</div>
 				<p className="sm:mx-10 my-2 p-4">
 					Since the beginning of the Internet, spams have been polluting online spaces

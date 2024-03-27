@@ -15,10 +15,10 @@ export default function blog3() {
 					<h1 className="py-6 text-red-500 underline">Not-A-Scam.com</h1>
 				</Link>
 				<h2 className="text-center my-2 max-w-[700px] xl:max-w-[825px] m-auto">
-					How to create your own NFTs
+					How To Fish
 				</h2>
 				<div className="mt-6 max-w-[400px] w-full h-auto m-auto ">
-					<img className="rounded-xl" src="/images/nftblog.jpg" alt="/" />
+					<img className="rounded-xl" src="/images/phishing_image.jpg" alt="/" />
 				</div>
 				<p className="sm:mx-10 my-2 md:text-center py-3 p-4">bla</p>
 				<p className="sm:mx-10 my-2 p-4">blabla</p>
