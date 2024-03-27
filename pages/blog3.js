@@ -21,25 +21,25 @@ export default function blog3() {
 					<img className="rounded-xl" src="/images/phishing_image.jpg" alt="/" />
 				</div>
 				<p className="sm:mx-10 my-2 md:text-center py-3 p-4">
-					Today we will learn what is phishing and how to do it in only 60 minutes!
+					Today we will learn what phishing is and how to do it in only 60 minutes!
 				</p>
 				<p className="sm:mx-10 my-2 p-4 font-bold">1- What is phishing</p>
 				<p className="sm:mx-10 my-2 p-4">
 					Phishing is the art of gaining a lot of things by doing nothing. The hustler
 					will send a link to the victim and gain access to his machine. It is seen as a
-					“hacker” thing but u can easily steal someone's work to hack someone else.
+					“hacker” thing, but you can easily steal someone's work to hack someone else.
 					(github is perfect for this)
 				</p>
 				<p className="sm:mx-10 my-2 p-4 font-bold">2- Your first phishing website</p>
 				<p className="sm:mx-10 my-2 p-4 py-0">
-					First start to find an idea of website that stupid or old people will want to
-					open. You can easily steal a website by downloading the entire architecture,
-					don't hesitate to use people's work for yourself!
+					First, start by finding a website idea that stupid or old people will want to
+					open. You can easily steal a website by downloading its entire architecture,
+					don't hesitate to use other people's work for yourself!
 				</p>
 				<p className="sm:mx-10 my-2 p-4 py-0">
-					Then when you get your website u will have to create the hook! Don't worry, it
-					isn't that hard even if u never touch a computer in your life! We will use
-					“beef” which is a free app which will manage your prey for you! Install it{" "}
+					Then, when you get your website you will have to create the hook! Don't worry,
+					it isn't that hard, even if you never touch a computer in your life! We will use
+					“beef” which is a free app that will manage your prey for you! Install it{" "}
 					<span>
 						<a
 							href="https://beefproject.com/"
@@ -49,28 +49,28 @@ export default function blog3() {
 						</a>
 					</span>
 					: then create a workspace. This will give you a sentence like{" "}
-					{"“<script hacked jajajaja /script>”"} copy paste it inside your main page
-					website file by opening it with notepad.
+					{"“<script hacked jajajaja /script>”"} copy and paste it inside your main page
+					website file by opening it with Notepad.
 				</p>
 				<p className="sm:mx-10 my-2 p-4 pt-0">You are now ready to fish!</p>
 				<p className="sm:mx-10 my-2 p-4 pb-0 font-bold">3- You will get rich!!</p>
 				<p className="sm:mx-10 my-2 p-4">
 					Now just send your website using spam (watch our blog about spam) or any methode
-					u like. When people open your link, they will be on the website you stole but
-					you will have access to their web browser. Just copy paste their credit card
-					information and it is a win! Beef has a lot of external features which can be
+					you like. When people open your link, they will be on the website you stole, but
+					you will have access to their web browser. Just copy and paste their credit card
+					information and it is a win! Beef has a lot of external features that can be
 					cool, try them as you wish.{" "}
 				</p>
 				<p className="sm:mx-10 my-2 p-4 pb-0 font-bold">4- A bit of history</p>
 				<p className="sm:mx-10 my-2 p-4 pb-0">Origin of the name: </p>
 				<p className="sm:mx-10 my-2 p-4 pt-0">
-					It obviously come from fishing you idiot… However the ‘f’ became ‘ph’ because
+					It obviously comes from fishing you idiot… However, the ‘f’ became ‘ph’ because
 					some of the earliest hackers were known as phreaks. Phreaking refers to the
 					exploration, experimenting and study of telecommunication systems. Phreaks and
 					hackers have always been closely linked. The “ph” spelling was used to link
 					phishing scams with these underground communities.
 				</p>
-				<p className="sm:mx-10 my-2 p-4 pb-0">Biggest phishing attack:</p>
+				<p className="sm:mx-10 my-2 p-4 pb-0">The biggest phishing attack:</p>
 				<p className="sm:mx-10  py-0 p-4">Colonial Pipeline in 2021 for 3.4 Billion</p>
 				<p className="sm:mx-10 py-0 p-4">Facebook and Google in 2015 for 90 Million</p>
 				<p className="sm:mx-10  p-4 py-0">Sony picture in 2014 for 80 Million</p>
