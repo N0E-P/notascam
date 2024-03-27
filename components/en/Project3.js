@@ -7,7 +7,7 @@ export default function Project3() {
 					<div className="aspect-w-16 aspect-h-9">
 						<iframe
 							className="rounded-xl"
-							src="https://www.youtube.com/embed/M576WGiDBdQ"
+							src="https://www.youtube.com/embed/D3e1r7ouQfo"
 							allow="autoplay; encrypted-media; picture-in-picture"
 							allowFullScreen
 							title="video"
