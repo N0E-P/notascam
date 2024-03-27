@@ -64,8 +64,8 @@ export default function blog4() {
 					expensive it is, the richer you will be! Just ask chat-gpt good storytelling for
 					your product.
 				</p>
-				<p className="sm:mx-10 my-2 p-4 font-bold">2- Fake Giveaway</p>
-				<p className="sm:mx-10 my-2 p-4">
+				<p className="sm:mx-10 my-2 p-4 font-bold pb-0">2- Fake Giveaway</p>
+				<p className="sm:mx-10 my-2 p-4 pt-0">
 					Here, we won't watch to sell something but to grow our community. Bigger
 					community mean bigger monetization. You will be able to reach a partnership if
 					your community is big enough. Giveaway is obviously the best way to do it, ask
@@ -74,16 +74,16 @@ export default function blog4() {
 					something like a car it can quickly cost a lot of money. Just don't choose the
 					winner. Simple and effective!
 				</p>
-				<p className="sm:mx-10 my-2 p-4">Some exemple:</p>
-				<p className="sm:mx-10 my-2 p-4">-Iphone giveaway</p>
-				<p className="sm:mx-10 my-2 p-4">-Car giveaway</p>
-				<p className="sm:mx-10 my-2 p-4">-Dream vacation giveaway</p>
-				<p className="sm:mx-10 my-2 p-4">-Celebrity encounter giveaway</p>
-				<p className="sm:mx-10 my-2 p-4">-Island giveaway</p>
-				<p className="sm:mx-10 my-2 p-4">-Fly to mars giveaway</p>
-				<p className="sm:mx-10 my-2 p-4">-A personal moon base giveaway</p>
-				<p className="sm:mx-10 my-2 p-4">3- Dropshipping</p>
-				<p className="sm:mx-10 my-2 p-4">
+				<p className="sm:mx-10 my-2 p-4 py-0">Some exemple:</p>
+				<p className="sm:mx-10 my-2 p-4 py-0">-Iphone giveaway</p>
+				<p className="sm:mx-10 my-2 p-4 py-0">-Car giveaway</p>
+				<p className="sm:mx-10 my-2 p-4 py-0">-Dream vacation giveaway</p>
+				<p className="sm:mx-10 my-2 p-4 py-0">-Celebrity encounter giveaway</p>
+				<p className="sm:mx-10 my-2 p-4 py-0">-Island giveaway</p>
+				<p className="sm:mx-10 my-2 p-4 py-0">-Fly to mars giveaway</p>
+				<p className="sm:mx-10 my-2 p-4 pt-0">-A personal moon base giveaway</p>
+				<p className="sm:mx-10 my-2 p-4 font-bold pb-0">3- Dropshipping</p>
+				<p className="sm:mx-10 my-2 p-4 pt-0">
 					If you don't know what dropshipping is, i'll explain it with simple words. You
 					sell products you don't own, and so you don't have to manage stock and delivery.
 					The perfect app for this is shopify, which has good features so we don't have to
